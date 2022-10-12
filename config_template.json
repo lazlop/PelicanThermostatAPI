@@ -1,0 +1,8 @@
+{
+    "url": "",
+    "username": "",
+    "password": "",
+    "object": "Thermostat",
+    "thermostat_names": ["Room1","Room2"],
+    "point_list": ["serialNo","name","heatSetting","coolSetting","status","temperature","temperatureFormat"]
+}
