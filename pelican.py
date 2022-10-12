@@ -1,7 +1,7 @@
-'''Right now designed to be one driver for each thermostat.
-(Could be one driver for every thermostat if we want)
-for some reason in BaseRegister class,
-the python class for everything is set to int. Reg_types are bit or byte
+'''
+Pelican Thermostat API Client
+This client allows the user to get and set points for one or multiple thermostats
+it requres a .json config file like config_template.json
 '''
 import requests
 import xmltodict
